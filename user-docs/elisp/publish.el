@@ -34,7 +34,7 @@
 
  (setq presentation  '("presentation" :components ("org-notes" "org-static")))
 
- (require 'ooxublish)
+ (require 'ox-publish)
  ; (require 'htmlize)
  ; (load "~/emacs/lisp/htmlize/htmlize.el")
  ; the script is running from the parent directory
