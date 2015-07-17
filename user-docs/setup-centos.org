@@ -1,6 +1,6 @@
 #+title:  How to Setup CentOS as a Deployment Platform and How to Deploy a Lab
 #+Author: Thirumal Ravula and Venkatesh Choppella
-#+Date:   [2014-10-01 Wed]
+#+Date:   [2014-10-02 Thur]
 
 #+SETUPFILE: ./org-templates/level-0.org
 #+LINK_HOME: ./index.html
